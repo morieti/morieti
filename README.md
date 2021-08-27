@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Morteza pourEtemadi (@morieti)
+- 👀 I’m interested in any kind of technology that is merged with coding
+- 🌱 I’m currently learning python and data analysis 
+- 💞️ I’m looking to collaborate on blockchain and IOT related projects
+- 📫 You can reach me via my Gmail: pouretemadi.morteza@gmail.com
